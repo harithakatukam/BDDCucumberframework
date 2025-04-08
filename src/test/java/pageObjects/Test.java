@@ -4,6 +4,9 @@ package pageObjects;
  Test()
  {
 	 System.out.println("default constructor");
+	 System.out.println("first print");
+	 System.out.println("first print");
+
  }
  public static void main(String[] args)
  {
