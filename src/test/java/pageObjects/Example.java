@@ -15,6 +15,9 @@ public class Example {
 	{
 		
 		System.out.println("i value==="+i);
+		System.out.println("m1 called");
+		System.out.println("m2 called");
+		System.out.println("m3 called");
 	}
 
 	
