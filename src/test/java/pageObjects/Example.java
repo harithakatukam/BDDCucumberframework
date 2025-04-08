@@ -7,7 +7,7 @@ public class Example {
 	{
 		// TODO Auto-generated method stub
 		int j=1;//local variable
-		System.out.println("j value==="+j);
+		System.out.println("j value of machine1 ==="+j);
 		
 
 	}
